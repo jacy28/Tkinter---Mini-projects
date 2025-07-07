@@ -1,0 +1,4 @@
+Name: christy
+Age: 13
+Course: Python
+Skill: 6
