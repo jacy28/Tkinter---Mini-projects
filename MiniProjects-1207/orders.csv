@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_amount,status,shipping_address
+1,101,2025-05-01,250.75,Pending,"123 Main St, Springfield"
+2,102,2025-05-03,120.50,Shipped,"456 Oak Ave, Riverdale"
+3,103,2025-05-05,500.00,Delivered,"789 Pine Rd, Greenville"
+4,104,2025-05-06,75.25,Pending,"321 Maple Dr, Hilltown"
+5,105,2025-05-08,340.00,Delivered,"654 Birch Ln, Lakeside"
+6,106,2025-05-10,210.30,Shipped,"987 Elm St, Fairview"
+7,107,2025-05-11,199.99,Pending,"543 Cedar St, Brookfield"
+8,108,2025-05-12,620.15,Delivered,"210 Willow Ave, Meadowbrook"
+9,109,2025-05-14,430.20,Shipped,"876 Spruce Blvd, Pineville"
+10,110,2025-05-15,310.00,Delivered,"135 Aspen Ct, Ridgeway"

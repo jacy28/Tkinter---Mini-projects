@@ -1,0 +1,16 @@
+[
+    {
+        "time": "2025-07-15 19:57:36",
+        "source": "English",
+        "target": "Hindi",
+        "input": "study",
+        "output": "अध्ययन"
+    },
+    {
+        "time": "2025-07-15 19:57:37",
+        "source": "English",
+        "target": "Hindi",
+        "input": "study",
+        "output": "अध्ययन"
+    }
+]
